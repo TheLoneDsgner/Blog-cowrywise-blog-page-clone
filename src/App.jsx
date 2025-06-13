@@ -16,7 +16,7 @@ function App() {
         <Navbar />
         <div className="content">
           <Routes>
-            <Route path="/blog" element={ <Blog /> }>  </Route>
+            <Route path="/" element={ <Blog /> }>  </Route>
           </Routes>         
           <Routes>
             <Route path="/blog/:id" element={ <BlogDetail /> }>  </Route>
