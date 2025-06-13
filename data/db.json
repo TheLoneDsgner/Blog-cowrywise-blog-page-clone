@@ -1,0 +1,34 @@
+{
+    "blogs": [
+        {
+            "blogImg": "https://cowrywise.com/blog/wp-content/uploads/2018/03/cowrywise-how-to-spend-money.jpg",
+            "caption1": "Ope's Diary",
+            "caption2": "",
+            "title": "Ope Spoke About This: Black Tax Will Finish You If You Don’t Plan",
+            "date": "May 15, 2025",
+            "update": "Updated May 16, 2025",
+            "id": 1
+        },
+        
+        {
+            "blogImg": "https://cowrywise.com/blog/wp-content/uploads/2025/05/Cowrywise-Billboard-18-scaled.jpg",
+            "caption1": "Money Tips",
+            "caption2": "Savings",
+            "title": "From Dreams to Reality: How to Build Wealth in Nigeria, One Goal at a Time",
+            "date": "May 14, 2025",
+            "update": "Updated May 15, 2025",
+            "id": 2
+        },
+        
+        {
+            "blogImg": "https://cowrywise.com/blog/wp-content/uploads/2023/03/Saving-Money-In-The-Olden-Days.png",
+            "caption1": "Money Map",
+            "caption2": "Money Tips",
+            "title": "Smart Ways Young Professionals in Nigeria Can Build Wealth in 2025",
+            "date": "May 1, 2025",
+            "update": "Updated May 1, 2025",
+            "id": 3
+        }
+        
+    ]
+}
